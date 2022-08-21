@@ -1,4 +1,5 @@
 # todo_app_using_drf
+In this repo I am creating a Todo App using Function Base View in Django Rest Framework
 ## First, clone the repository to your local machine:
 
 git clone https://github.com/rahulgurjar16/todo_app_using_drf.git
